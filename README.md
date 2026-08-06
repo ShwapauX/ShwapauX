@@ -1,4 +1,4 @@
-# ¡Hola.🫡, soy Christopher BLanco M ⚡⚡⚡
+# ⚡ ¡Hola.🫡, soy Christopher BLanco M ⚡
 
 ### 🚀 Desarrollador Junior Java Full Stack / Backend / Frontend
 Ubicado en Estado de Mexico/Mexico. Apasionado por resolver problemas y crear código limpio y mantenible.
@@ -7,10 +7,12 @@ Ubicado en Estado de Mexico/Mexico. Apasionado por resolver problemas y crear c�
 
 ### 🛠️ Tecnologías y Herramientas
 
-**Lenguajes:**
-[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,git,linux)](https://skillicons.dev)
+#### Lenguajes:
 
-**Frameworks & Librerías:**
+[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,git,linux)]
+
+#### Frameworks & Librerías:
+
 -Por aprender[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 ---
@@ -23,6 +25,6 @@ Ubicado en Estado de Mexico/Mexico. Apasionado por resolver problemas y crear c�
 ---
 
 ### 📬 ¿Hablamos?
-- [![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/bamc17)
-- 🌐 **Portafolio:** (https://dominioXhacerShwapauX.com)
-- [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev): christopher.b1m7@gmail.com
+- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bamc17)
+- [![My Skills](https://skillicons.dev/icons?i=gmail)](christopher.b1m7@gmail.com)
+- 🌐 Portafolio: (https://dominioXhacerShwapauX.com)
