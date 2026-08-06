@@ -8,15 +8,10 @@ Ubicado en Estado de Mexico/Mexico. Apasionado por resolver problemas y crear c�
 ### 🛠️ Tecnologías y Herramientas
 
 **Lenguajes:**
-![Java](https://slackmojis.com/emojis/10313-java-logo/download)
-![Python](https://slackmojis.com/emojis/32-python/download)
-![C++](https://slackmojis.com/emojis/10314-c-plus-plus-logo/download)
-![git](https://slackmojis.com/emojis/341-git/download)
-![linux](https://slackmojis.com/emojis/1202-linux/download)
+[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,git,linux)](https://skillicons.dev)
 
 **Frameworks & Librerías:**
-![React (por aprender)](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
+-Por aprender[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 ---
 
@@ -28,7 +23,6 @@ Ubicado en Estado de Mexico/Mexico. Apasionado por resolver problemas y crear c�
 ---
 
 ### 📬 ¿Hablamos?
-
-- 💼 **LinkedIn:** [bam17](www.linkedin.com/in/bamc17)
+- [![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/bamc17)
 - 🌐 **Portafolio:** (https://dominioXhacerShwapauX.com)
-- ![gmail](https://slackmojis.com/emojis/38-gmail/download): christopher.b1m7@gmail.com
+- [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev): christopher.b1m7@gmail.com
