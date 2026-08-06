@@ -8,8 +8,11 @@ Ubicado en Estado de Mexico/Mexico. Apasionado por resolver problemas y crear c�
 ### 🛠️ Tecnologías y Herramientas
 
 **Lenguajes:**
-![Java](https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://slackmojis.com/emojis/10313-java-logo/download)
+![Python](https://slackmojis.com/emojis/32-python/download)
+![C++](https://slackmojis.com/emojis/10314-c-plus-plus-logo/download)
+![git](https://slackmojis.com/emojis/341-git/download)
+![linux](https://slackmojis.com/emojis/1202-linux/download)
 
 **Frameworks & Librerías:**
 ![React (por aprender)](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -28,4 +31,4 @@ Ubicado en Estado de Mexico/Mexico. Apasionado por resolver problemas y crear c�
 
 - 💼 **LinkedIn:** [bam17](www.linkedin.com/in/bamc17)
 - 🌐 **Portafolio:** (https://dominioXhacerShwapauX.com)
-- ✉️ **Email:** christopher.b1m7@gmail.com
+- ![gmail](https://slackmojis.com/emojis/38-gmail/download): christopher.b1m7@gmail.com
