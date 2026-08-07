@@ -1,4 +1,4 @@
-# ⚡ ¡Hola🫡, soy Christopher BLanco M ⚡
+# ⚡ ¡Hi 🫡, I'm Christopher Blanco M ⚡
 
 ### 🚀 Desarrollador Junior Java Full Stack / Backend / Frontend
 Ubicado en Estado de Mexico/Mexico. Apasionado por resolver problemas y crear código limpio y mantenible.
